@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <osoby>
     <osoba osCislo='R1245'>
-        <jmeno>Jan</jmeno>
-        <prijmeni>Novák</prijmeni>
+        <jmeno>Mára</jmeno>
+        <prijmeni>Petrželka</prijmeni>
         <stav>studuje</stav>
         <obor>KMI</obor>
         <rocnik>2</rocnik>
